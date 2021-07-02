@@ -14,7 +14,7 @@ body{
 #logo-img{
 	width: 150px;
 	height: 150px;
-	background: url("../images/logo-ghar.png") no-repeat center;
+	background: url("../images/logo150.png") no-repeat center;
 	margin: 10px 15px 10px 0;
 }
 
@@ -249,7 +249,7 @@ h3.menu-item-title {
 @media(min-width: 992px) and (max-width: 1199px){
 	/*Header*/
 	#logo-img{
-		background: url("../images/logo-ghar-med.png") no-repeat center;
+		background: url("../images/logo100.png") no-repeat center;
 		width: 100px;
 		height: 100px;
 		margin: 5px 5px 5px 0;
